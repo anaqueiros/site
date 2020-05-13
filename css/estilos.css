@@ -1,0 +1,13 @@
+body {
+    background-image: url(./images/background.jpg);
+    height: 100vh;
+    width: auto;
+}
+
+.bolodefuba {
+    color:red;
+}
+
+.farinha {
+    color: gray;
+}
